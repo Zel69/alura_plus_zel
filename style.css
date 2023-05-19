@@ -19,7 +19,7 @@ body {
 
 
 .principal-botao-{
-    background-color: var(--botao-azul);
+    background-color: var(--botao-azulao);
     color: var(--branco-principal);
     border-radius: 5px;
     padding: 16px;
