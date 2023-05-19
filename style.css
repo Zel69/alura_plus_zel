@@ -1,8 +1,8 @@
 :root{  
     --branco-principal: #FFFFFF;
     --cinza-secundario: #c0c0c0;
-    --botao-azulao:#167bf7;
-    --pretoooo: #00030c;
+    --botao-azul:#167bf7;
+    --preto: #00030c;
 }
 body {
     background-color: var(--pretoooo);
@@ -19,7 +19,7 @@ body {
 
 
 .principal-botao-{
-    background-color: var(--botao-azulao);
+    background-color: var(--botao-azul);
     color: var(--branco-principal);
     border-radius: 5px;
     padding: 16px;
