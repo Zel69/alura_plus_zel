@@ -3,10 +3,14 @@
     --cinza-secundario: #c0c0c0;
     --botao-azul:#167bf7;
     --cor-de-fundo: #00030c;
+    --fonte-principal: 'Inter';
 }
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
 }
 
 
@@ -37,4 +41,9 @@ body {
     padding: 16px;
     text-decoration: none;
     display: block;
+}
+
+.principal-titulo{
+    font-size: 28px;
+    font-weight:700;
 }
