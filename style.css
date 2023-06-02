@@ -67,13 +67,13 @@ body {
 .secundaria{
     height: 100vh;
     display: grid;
-    grid-template-columns: 0% 50%;
+    grid-template-columns: 50% 50%;
     align-items:center;
 
 }
 
 .secundaria-imagem{
-     font-weight: 700px;
+     width: 80%;
 }
 
 .secundaria-titulo{
