@@ -43,7 +43,7 @@ body {
     padding: 16px;
     text-decoration: none;
     display: block;
-    margin-botom: 16px
+    margin-bottom: 16px
 }
 
 .principal-titulo{
@@ -63,3 +63,21 @@ body {
 .principal-caixa{
     margin: 0 96px;
 }
+
+.secundaria{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 0% 50%;
+    align-items:center;
+
+}
+
+.secundaria-imagem{
+     font-weight: 700px;
+}
+
+.secundaria-titulo{
+    font-weight: 700;
+    font-size: 48px;
+}
+    
