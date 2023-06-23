@@ -98,3 +98,9 @@
     .dispoitivos{
         text-align: center;
     }
+    .dispoitivos-titulo{
+        font-size: 48px;
+    }
+    .lista-item{
+        font-size: 32px;
+    }
